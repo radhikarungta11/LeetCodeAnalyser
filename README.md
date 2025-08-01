@@ -126,12 +126,6 @@ Recommendations for weak topics based on user-defined threshold values.
 
 
 
-### Demo
-
-You can watch a video demonstration of the project [here](https://youtu.be/ztgmpjuMULE).
-
-Interact with the live demo of the project [here](https://leet-analyzer.streamlit.app/).
-
 ## Installation
 
 To get started with LeetCode Analyser, follow these steps:
@@ -139,7 +133,7 @@ To get started with LeetCode Analyser, follow these steps:
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/AnupamMittal-21/LeetCode-Analyser.git
+   git clone https://github.com/radhikarungta11/LeetCodeAnalyser.git
 
 2. Navigate to the project directory:
 
@@ -171,15 +165,8 @@ To get started with LeetCode Analyser, follow these steps:
 
 4. Use the various visualization options and recommendations to track and improve your LeetCode performance.
 
-## Contributors
-
-- Anupam Mittal (https://github.com/AnupamMittal-21)
-
-
-9. **Interact and Visualize**:
-
-    - Use the various visualization options and recommendations to monitor and enhance your LeetCode performance.
+- Use the various visualization options and recommendations to monitor and enhance your LeetCode performance.
 
 By following these steps, you'll have LeetCode Progress Visualizer up and running, allowing you to track your LeetCode journey with valuable insights.
 
-Thank You.
+
