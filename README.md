@@ -10,7 +10,7 @@ Before using the LeetCode Progress Visualizer, make sure you have the following 
 
 1. **Web Driver Installation**: You will need a web driver, preferably the Chrome WebDriver. Ensure that it matches the version of your Google Chrome browser.
 
-    - Download the Chrome WebDriver from [here](https://sites.google.com/chromium.org/driver/).
+    - Download the Chrome WebDriver from [here](https://sites.google.com/chromium.org/driver/).  
 
     - Save the downloaded driver (usually a `.exe` file) to your computer. It is recommended to save it as `C:\ChromeDriver\chromedriver.exe`.
 
